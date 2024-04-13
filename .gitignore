@@ -1,0 +1,4 @@
+requirements(without dependencies).txt
+app/__pycache__/
+app/db/
+app/docs/

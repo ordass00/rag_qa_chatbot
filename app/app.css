@@ -1,0 +1,12 @@
+/* Set minimum widht of the sidebar */
+[data-testid="stSidebar"] {
+    min-width: 350px;
+}
+
+/* Set width, minimum width, padding and margin of the buttons */
+div.stButton > button:first-child {
+    width: 100%;
+    min-width: 100px;
+    padding: 5px 0px;
+    margin: 2px 0px;  
+}
